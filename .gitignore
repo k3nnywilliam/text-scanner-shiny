@@ -1,0 +1,12 @@
+/__pycache__/
+.DS_Store
+.Rhistory
+.Rprofile
+.Rproj.user
+
+.venv/
+pyvenv/
+renv/
+
+install_requirements.sh
+
