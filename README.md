@@ -2,6 +2,8 @@
 
 Simple Shiny app demo to extract text using Tesseract.js.
 
+![To the left is the live video feed and interface. To the right, captured image and extracted text below.](splash.png)
+
 ## Requirements
 
 1.  RStudio \>= 4.4.1
